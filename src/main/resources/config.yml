@@ -254,6 +254,8 @@ EMC_VALUES:
     BUCKET_OF_OIL: 0
     SIFTED_ORE: 0
     BASIC_CIRCUIT_BOARD: 1024
+    INFINITY_INGOT: 50000
+    VOID_INGOT: 250
 MESSAGES:
   COMMAND_SUBCOMMAND: "Please select a valid sub command"
   COMMAND_SELECT_ITEM: "Please select an item type"
